@@ -12,7 +12,7 @@ echo.
 echo.
 color 0f
 Pushd "%~dp0"
-bedrock_server_mod.exe
+bedrock_server.exe
 popd
 
 goto :1
